@@ -1,6 +1,6 @@
-# crud
+# Simple Student Record Manager
 
-A new Flutter project.
+Simple student record manager app for learning flutter basics integrated with Django REST API (refer Generic-Student-API repository)
 
 ## Getting Started
 
