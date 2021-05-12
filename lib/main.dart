@@ -86,8 +86,11 @@ class _MyHomePageState extends State<MyHomePage> {
     updateIndex = student.id;
     update = true;
     nameController.text = student.name;
+    name = student.name;
     emailController.text = student.email;
+    email = student.email;
     ageController.text = student.age.toString();
+    age = student.age;
   }
 
   void deleteStudent(int sid) async {
