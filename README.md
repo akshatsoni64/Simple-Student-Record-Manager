@@ -1,4 +1,4 @@
-# Simple Student Record Manager
+# Simple Student Record Manager <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
 Simple student record manager app for learning flutter basics integrated with Django REST API (refer Generic-Student-API repository)
 
